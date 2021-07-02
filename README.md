@@ -1,5 +1,5 @@
 # TCP-SCANER
-用go简单的写一个TCP扫描器
+Simply write a TCP scanner with go
 
 ![img](img.png)
 
